@@ -2,28 +2,28 @@
 1. Define:
 
 	(a) Subgraph
-R: Trata-se de uma pequena fração do gráfico total
+**R: Trata-se de uma pequena fração do gráfico total**
 	
 	(b) Bipartite graph.
-R: Definido quando os vértices de um gráfico podem ser divididos em dois conjuntos dijuntos
+**R: Definido quando os vértices de um gráfico podem ser divididos em dois conjuntos dijuntos**
 	
 	(c) Hamiltonian graph
-R: É caracterizado quando o gfrafo possui o ciclo fechado que por sua vez visita cada vértice apenas uma vez
+**R: É caracterizado quando o gfrafo possui o ciclo fechado que por sua vez visita cada vértice apenas uma vez**
 	
 	(d) Eulerian graph.
-R: Em seu conceito é tido que um grafo euleriano é todo aquele que é impossível cobrir todos os vértices sem retraçar nenhuma aresta. Desse modo, fazendo um passeio fechado pelo grafo que visita cada aresta exatamente uma vez e retorna ao vértice inicial.
+**R: Em seu conceito é tido que um grafo euleriano é todo aquele que é impossível cobrir todos os vértices sem retraçar nenhuma aresta. Desse modo, fazendo um passeio fechado pelo grafo que visita cada aresta exatamente uma vez e retorna ao vértice inicial.**
 
 2. Describe how a breadth-first search algorithm works.
 
-R: Funciona de modo em que ele começa na raiz da árvore ou gráfico e investiga todos os nós no nível de profundidade atual antes de passar para os nós no próximo nível de profundidade 
+**R: Funciona de modo em que ele começa na raiz da árvore ou gráfico e investiga todos os nós no nível de profundidade atual antes de passar para os nós no próximo nível de profundidade**
 
 3. How many edges does a complete graph with n vertices have? What about a complete directed graph with n vertices?
 
-R: Um gráfico completo possui uma aresta entre dois vértices quaisquer. Você pode obter uma vantagem escolhendo dois vértices quaisquer. Portanto, se houver n vértices, haverá n escolha
+**R: Um gráfico completo possui uma aresta entre dois vértices quaisquer. Você pode obter uma vantagem escolhendo dois vértices quaisquer. Portanto, se houver n vértices, haverá n escolha**
 
 4. What are isomorphic graphs? Draw an example.
    
-R: Os gráficos são isomórficos se houver uma estrutura que preserve uma correspondência um-para-um entre os vértices e as arestas.
+**R: Os gráficos são isomórficos se houver uma estrutura que preserve uma correspondência um-para-um entre os vértices e as arestas.**
 
 ![Isomórfico graph](https://github.com/terrematte/network_analysis/assets/40202382/20e2a373-f9b4-47e2-9657-6922647504e0)
 
