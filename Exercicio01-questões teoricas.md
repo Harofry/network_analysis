@@ -55,7 +55,7 @@
 
 8. How many edges does a graph have 3 vertices of degree 3 and one vertex of degree 5?
 
-R: A soma dos graus de todos os vértices é: 3+3+3+5=14 Usando o Lema do Handshaking, sabemos que o número total de arestas é metade dessa soma, então: Número total de arestas 14/2 = 7 Portanto, o gráfico com 3 vértices de grau 3 e um vértice de grau 5 possui 7 arestas.
+**R: A soma dos graus de todos os vértices é: 3+3+3+5=14 Usando o Lema do Handshaking, sabemos que o número total de arestas é metade dessa soma, então: Número total de arestas 14/2 = 7 Portanto, o gráfico com 3 vértices de grau 3 e um vértice de grau 5 possui 7 arestas.**
 
 9. Mr. A is friend with Mrs. B, but she doesn't like him back. She has a reciprocal friendship with both C and D, but only C considers D a friend. D has also sent friend requests to E, F, G, and H but, so far, only G replied. G also has a reciprocal relationship with A. Draw the corresponding directed graph.
 
