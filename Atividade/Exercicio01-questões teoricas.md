@@ -8,7 +8,7 @@
 **R: Definido quando os vértices de um gráfico podem ser divididos em dois conjuntos dijuntos**
 	
 	(c) Hamiltonian graph
-**R: É caracterizado quando o gfrafo possui o ciclo fechado que por sua vez visita cada vértice apenas uma vez**
+**R: É caracterizado quando o grafo possui o ciclo fechado que por sua vez visita cada vértice apenas uma vez**
 	
 	(d) Eulerian graph.
 **R: Em seu conceito é tido que um grafo euleriano é todo aquele que é impossível cobrir todos os vértices sem retraçar nenhuma aresta. Desse modo, fazendo um passeio fechado pelo grafo que visita cada aresta exatamente uma vez e retorna ao vértice inicial.**
