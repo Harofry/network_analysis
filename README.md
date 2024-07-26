@@ -1,4 +1,4 @@
-# network_analysiss
-Disciplina optativa do BTI - 24T34
+# network_analysis
+university of ufrn. 
+BTI elective course - 24T34
 
-Link questões de implementação: https://colab.research.google.com/drive/1ZouYkp-tWqWJ663WZPqj781Sjuit1fsz?usp=sharing
